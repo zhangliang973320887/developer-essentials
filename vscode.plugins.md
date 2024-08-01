@@ -1,0 +1,5 @@
+- Auto Close Tag
+- Auto Rename Tag
+- Markdown Preview Enhanced
+- Thunder Client
+- vscode-icons
